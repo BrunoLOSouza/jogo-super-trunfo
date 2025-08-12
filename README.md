@@ -1,5 +1,6 @@
 🃏 Jogo de Cartas - Comparação de Atributos
-📋 Descrição
+
+📋 Descrição:
 Este projeto em C é um joguinho simples que cadastra duas cartas com dados de estados brasileiros 🏞️ e compara vários atributos, tipo população, PIB, pontos turísticos, e mais!
 
 Ele calcula também umas informações extras como:
